@@ -23,7 +23,7 @@
     "npm package"
   ],
   "publishConfig": {
-    "@sohebmansuri:registry": "https://npm.pkg.github.com"
+    "@shoaifmansuri19:registry": "https://npm.pkg.github.com"
   },
   "author": {
     "name": "Soheb Mansuri",
