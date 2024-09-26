@@ -1,0 +1,38 @@
+{
+  "name": "@sohebmansuri/ezarray",
+  "version": "1.0.0",
+  "description": "Helper functions to manage and manipulate arrays in JavaScript.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shoaifmansuri19/ezarray.git"
+  },
+  "keywords": [
+    "ezarray",
+    "easyarray",
+    "array",
+    "js",
+    "javascript",
+    "helpers",
+    "array helpers",
+    "utility",
+    "npm package"
+  ],
+  "publishConfig": {
+    "@sohebmansuri:registry": "https://npm.pkg.github.com"
+  },
+  "author": {
+    "name": "Soheb Mansuri",
+    "email": "shoaifmansuri@gmail.com",
+    "url": "https://shoaifmansuri19.github.io"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shoaifmansuri19/ezarray/issues"
+  },
+  "homepage": "https://github.com/shoaifmansuri19/ezarray#readme"
+}
