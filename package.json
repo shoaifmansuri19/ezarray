@@ -1,7 +1,7 @@
 {
   "name": "@shoaifmansuri19/ezarray",
   "version": "1.0.0",
-  "description": "Helper functions to manage and manipulate arrays in JavaScript.",
+  "description": "Array helper functions",
   "main": "index.js",
   "type": "module",
   "scripts": {
