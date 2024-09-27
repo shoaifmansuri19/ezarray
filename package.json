@@ -1,6 +1,6 @@
 {
   "name": "@shoaifmansuri19/ezarray",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Array helper functions",
   "main": "index.js",
   "type": "module",
