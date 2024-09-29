@@ -14,12 +14,9 @@
   "keywords": [
     "ezarray",
     "array",
-    "js",
     "javascript",
-    "helpers",
     "array helpers",
-    "utility",
-    "npm package"
+    "utility"
   ],
   "publishConfig": {
     "registry": "https://registry.npmjs.org"
